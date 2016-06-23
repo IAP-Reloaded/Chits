@@ -1,0 +1,18 @@
+<svg version="1.1" width="497" height="377" viewBox="-1 -1 497 377" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="grad_1" y2="1">
+      <stop offset="0" stop-color="#95D7FF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#C3E8FF" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="ID0.5647795046679676" fill="url(#grad_1)" stroke="#666666" stroke-width="15" d="M 0 0 L 480 0 L 480 360 L 0 360 L 0 0 Z " transform="matrix(1, 0, 0, 1, 8, 8)"/>
+  <g id="ID0.9319757372140884">
+    <text id="ID0.3179627927020192" fill="#000000" x="191" y="146.25" text-anchor="start" font-family="Marker" font-size="22" transform="matrix(7.4271440505981445, 0, 0, 7.059463977813721, 21, 52.6)">Chits</text>
+    <g id="ID0.4732829611748457">
+      <text id="ID0.3179627927020192" fill="#B2B2B2" x="191" y="146.25" text-anchor="start" font-family="Marker" font-size="22" transform="matrix(7.4271440505981445, 0, 0, 6.717728614807129, 22, 58)">Chits</text>
+      <text id="ID0.3179627927020192" fill="#FFFFFF" x="191" y="146.25" text-anchor="start" font-family="Marker" font-size="22" transform="matrix(7.4271440505981445, 0, 0, 6.717728614807129, 21, 52.6)">Chits</text>
+    </g>
+  </g>
+  <text id="ID0.0018651285208761692" fill="#000000" x="162" y="297.04999999999995" text-anchor="start" font-family="Marker" font-size="22" transform="matrix(0.9999372959136963, 0.011197117157280445, -0.011197117157280445, 0.9999372959136963, 135.3, 326.45)">press space to begin</text>
+</svg>
